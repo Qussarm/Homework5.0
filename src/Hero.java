@@ -9,7 +9,7 @@ public class Hero {
 
         this.skill = skill;
 
-        this.hitType = hits;
+        hitType = hits;
 
 
 
